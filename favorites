@@ -1,2 +1,2 @@
-UPDATE `Alunos` SET `Favorites`='sim' WHERE AlunosID in (5,13,22,19,2,6,3,9,15);
-UPDATE `Alunos` SET `Favorites`='-' WHERE AlunosID  not in (5,13,22,19,2,6,3,9,15);
+UPDATE `Alunos` SET `Favorites`='sim' WHERE AlunosID in (5,13,22,19,2,6,3,9,15,28);
+UPDATE `Alunos` SET `Favorites`='-' WHERE AlunosID  not in (5,13,22,19,2,6,3,9,15,28);
